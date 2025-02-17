@@ -1,4 +1,7 @@
+""" Ruben Valenzuela Ortega 
+Numero de control:20760221
 
+"""
 import turtle 
 import time 
 tut = turtle.Screen() 
